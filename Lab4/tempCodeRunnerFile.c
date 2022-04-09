@@ -1,0 +1,2 @@
+
+        while (amount > 1) {
